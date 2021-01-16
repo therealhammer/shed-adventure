@@ -61,7 +61,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/starfm-4.explodio.com\/nuernberg.mp3"
+                 "value":".\/www\/radio.pls"
                 }],
          "type":"tilelayer",
          "visible":true,
