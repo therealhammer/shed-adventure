@@ -17,7 +17,7 @@ jobs:
         run: |
           ls -al
           git config --global user.email "github@syntax-fehler.de"
-          git config --global user.name "makefu"
+          git config --global user.name "therealhammer"
           git checkout master
           git commit -am "Adding files"
       - name: Deploy
