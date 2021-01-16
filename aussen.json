@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"therealhammer.github.io\/shed-adventure\/www\/anleitung\/index.html"
+                 "value":"https:\/\/therealhammer.github.io\/shed-adventure\/www\/anleitung\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
