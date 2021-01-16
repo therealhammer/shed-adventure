@@ -61,7 +61,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"https:\/\/stream.rockantenne.de\/heavy-metal\/stream\/mp3"
+                 "value":"https:\/\/therealhammer.github.io\/shed-adventure\/www\/radio.pls"
                 }],
          "type":"tilelayer",
          "visible":true,
