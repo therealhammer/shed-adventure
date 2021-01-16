@@ -61,7 +61,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"http:\/\/starfm-4.explodio.com\/nuernberg.mp3"
+                 "value":"https:\/\/stream.rockantenne.de\/heavy-metal\/stream\/mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
