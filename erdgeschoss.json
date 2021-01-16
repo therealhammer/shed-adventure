@@ -61,7 +61,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"https:\/\/therealhammer.github.io\/shed-adventure\/www\/radio.pls"
+                 "value":"www\/radio.pls"
                 }],
          "type":"tilelayer",
          "visible":true,
