@@ -61,7 +61,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"https:\/\/starfm-4.explodio.com\/nuernberg.mp3"
+                 "value":"http:\/\/starfm-4.explodio.com\/nuernberg.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
