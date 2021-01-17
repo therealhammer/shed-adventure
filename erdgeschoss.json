@@ -61,7 +61,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"www\/radio.pls"
+                 "value":"http:\/\/ice2.somafm.com\/groovesalad-256-mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
