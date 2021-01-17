@@ -1,0 +1,14 @@
+<html>
+    <head>
+    </head>
+    <body style="background-color:#dddddd">
+        <h1 style="font-family:sans-serif" align="center">The Shed Picture Wall:</h1>
+        <div id="meme"  align="center"></div>
+        <script>
+            path = "img/";
+            var num = Math.floor( Math.random() * 74 ) + 1;
+            var imgStr = '<img style="max-height:80vh;max-width:90vw" align="center" src="img/' + num + '.jpg" alt = "">';
+            document.getElementById("meme").innerHTML = imgStr;
+        </script>
+    </body>
+</html>
