@@ -115,7 +115,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/yopad.eu\/p\/SHED-365daysr"
+                 "value":"https:\/\/pad.riseup.net\/p\/SHED-keep"
                 }],
          "type":"tilelayer",
          "visible":true,
